@@ -1,0 +1,7 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="auto-scaling-cli" audience="cli" href="docs/auto-scaling-cli-plugin/auto-scaling-cli.html" path="auto-scaling-cli-plugin"}
+IBM Cloud Auto-scaling CLI reference
+
+    auto-scaling-cli.md
