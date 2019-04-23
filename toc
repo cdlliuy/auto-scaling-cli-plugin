@@ -5,3 +5,4 @@
 IBM Cloud Auto-scaling CLI reference
 
     auto-scaling-cli.md
+
