@@ -12,10 +12,14 @@ lastupdated: "2018-11-07"
 {:new_window: target="_blank"}
 {:table: .aria-labeledby="caption"}
 {:tip: .tip}
+{:deprecated: .deprecated}
 
 # Auto-Scaling CLI
 {: #autoscalingcli}
 
+{{site.data.keyword.autoscaling}} is deprecated. As of 1st Augest 2019, you cannot provision new {{site.data.keyword.autoscaling}} instances in public region. Existing service instances are supported until 30th September 2019. <br/>
+To continue using the auto-scaling capability for Cloud Foundray application in {{site.data.keyword.Bluemix_notm}}, please migrate to the NEW [built-in Auto-Scaling experience available within the Cloud Foundry application context](https://{DomainName}/docs/cloud-foundry-public?topic=cloud-foundry-public-autoscale_cloud_foundry_apps). 
+{:deprecated}
 
 You can configure the {{site.data.keyword.autoscaling}} service by using the {{site.data.keyword.autoscaling}} CLI for {{site.data.keyword.Bluemix_notm}}. The {{site.data.keyword.autoscaling}} CLI supports Linux64, Win64, and OSX, and provides functionality that is similar to the auto-scaling RESTful API provides.
 {: shortdesc}
